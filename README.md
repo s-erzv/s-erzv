@@ -1,7 +1,4 @@
-# Hey there! 👋 I'm Nupers
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full-stack+Developer;Web3+Enthusiast;Intentional+UI+Designer;Perfectionist+Coder)](https://git.io/typing-svg)
-
+# Hi there! 👋 I'm Nupers 
 
 ## 🛠️ Technology Ecosystem
 
