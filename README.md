@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Technology Ecosystem</h2>
+<h3 align="left">Technology Ecosystem</h3>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h2 align="left">Activity</h2>
+<h3 align="left">Activity</h3>
 
 ###
 
